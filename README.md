@@ -6,6 +6,4 @@
 - NoSQL and Database
 - Python, Scala, SQL
 
-<div align=center>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bdlvhn@gmail.com)](mailto:bdlvhn@gmail.com)
-</div>
+
