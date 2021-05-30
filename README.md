@@ -1,4 +1,7 @@
-### 관심분야 : Data Engineer, Data Engineering
+### 관심분야
+
+- Data Engineer
+- Data Engineering
 
 ### 관심사
 - Hadoop Eco System (Hadoop, Spark, Kafka, ...)
